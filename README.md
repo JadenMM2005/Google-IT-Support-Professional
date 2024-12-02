@@ -1,2 +1,2 @@
-# Microsoft-IT-support
+# Microsoft IT Support Specialist
 It support training with microsoft (certificate)
