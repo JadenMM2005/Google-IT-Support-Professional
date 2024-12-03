@@ -1,1 +1,35 @@
+Hands on Troubleshooting a mobile device
+
+Data Storage Measurements
+In this reading, you will learn about the different names for measurements of data storage capacities and file sizes. Data storage capacity increases in step with the evolution of computer hardware technology. Larger storage capacities allow for dynamic growth in file sizes. These advances make it possible for companies like Netflix and Hulu to store thousands of feature-length films in high video quality formats. 
+
+There are standardized sets of terms used to name the ever expanding sizes of data storage and files. For example, the common terms used to describe file sizes and hard drive storage capacity include: bytes, kilobytes, megabytes, gigabytes, and terabytes. However, if you are a computer engineer, you might use a different set of terms. 
+
+
+CPU cache and overclocking
+In this reading, you will learn about the various levels of cache for central processing units (CPUs) and how a CPU processes and executes instructions. Additionally, you will learn about overclocking CPUs to maximize processing speeds. IT Support professionals may use this information when purchasing, allocating, and/or configuring high-performance servers.  
+
+
+Power Supplies
+In this reading, you will learn how to select the correct power supply for a personal computer (PC) to support the main components of the PC. 
+
+As you learned in a previous video, computer systems require a direct current (DC) of electricity to operate. However, power companies deliver electricity in alternating currents (AC). AC power can damage the internal components of a computer. To solve this problem, computer power supplies are used to convert the AC from the wall socket to DC. Power supplies also reduce the voltage delivered to the computer’s internal components.
+Key takeaways
+When selecting a power supply for a computer, the following items should be taken into consideration:
+
+Wall socket input voltage standard for the country where the computer will be used;
+
+The number and power consumption needs of the computer’s internal components;
+
+The motherboard model and form factor engineering specifications and requirements.
+
+
+Connector Types
+A computer has many physical ports or connectors. You can use these connectors to connect devices that add functionality to your computing, such as a keyboard, mouse, or monitor. These external devices are called peripherals. IT often works with and troubleshoots these peripherals, so it is helpful to understand the types of connectors. This reading will cover different types of connectors and their uses.  
+
+
+BIOS
+The bios isn't stored on a hard drive. Our motherboard stores the bios in a special type of memory called the read only memory chip or ROM chip. Unlike RAM, ROM is non-volatile, meaning it won't erase the data if the computer is turned off. 
+
+
 
